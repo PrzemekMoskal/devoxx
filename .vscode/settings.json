@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "docsenterprise",
+        "projectKey": "docsenterprise_your-project"
+    }
+}
