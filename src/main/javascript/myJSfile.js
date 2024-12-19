@@ -6,3 +6,7 @@ function myPoem(){
         question = true;
     }
 }
+
+function writePoem(){
+    console.log("To be or not to be, that is the question");
+}
